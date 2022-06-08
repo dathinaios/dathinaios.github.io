@@ -11,9 +11,7 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
-
 customCSS: "/main.css"
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dionysis Athinaios
@@ -73,6 +71,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/dathinaios"
+    - name: email
+      url: "https://dathin.netlify.app"
 
   cover:
     hidden: true # hide everywhere but not in structured data
