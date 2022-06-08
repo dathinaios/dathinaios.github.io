@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dionysis Athinaios</title>
+    <link>https://dathinaios.github.io/</link>
+    <description>Recent content on Dionysis Athinaios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language><atom:link href="https://dathinaios.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dathinaios.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dathinaios.github.io/about/</guid>
+      <description>I am a musician / sound designer / software developer. I have worked extensively with the SuperCollider audio programming language which was the main tool during my PhD research. I have since used a variety of technologies, currently focusing on software development for audio applications and the creation of tools for artists working with sound in unconventional ways. I am the director of the UK-based Music &amp;amp; Audio company FasmaTwist.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://dathinaios.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dathinaios.github.io/projects/</guid>
+      <description>Code CuePlayer A tool for composing and performing real-time and mixed electronic works using the SuperCollider language. It helps a composer to organise processes and musical material in bundles (cues) and execute them when needed during the course of a piece. It is particularly applicable to musical works incorporating real-time electronics and acoustic instruments; it may also be handy in any scenario where the composer wishes to organise, schedule and trigger bundles of processes.</description>
+    </item>
+    
+  </channel>
+</rss>
