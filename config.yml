@@ -91,10 +91,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 20
+    # - identifier: posts
+    #   name: Posts
+    #   url: /posts/
+    #   weight: 20
     - identifier: github
       name: "GitHub"
       url: https://github.com/dathinaios
