@@ -35,6 +35,25 @@ A style agnostic framework for creative coding using the SuperCollider audio pro
 
 Check it out on [GitHub](https://github.com/dathinaios/Cactus).
 
+---
+
+### GameLoop
+
+A sound only game angine for the creation of virtual sound environments inspired by video game techniques. It provides:
+
+* An agent based system for the creation of interactive sound units.
+* Spatialisation according to cartesian or polar coordinates using Ambisonics.
+* Steering behaviors.
+* A spatial index for efficient collision detection (SpatialHashing).
+
+Get it on [GitHub](https://github.com/dathinaios/GameLoop).
+
+{{< rawhtml >}}
+  <div style="text-align: center;">
+  ✴︎✴︎✴︎
+  </div>
+{{< /rawhtml >}}
+
 ## Sound & Music
 
 ---
