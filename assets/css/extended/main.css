@@ -10,6 +10,10 @@
   margin-left: 5px
 }
 
+.post-content h4 {
+  font-size: 19px;
+}
+
 @media not speech {
   body {
     font-size: 16px;
@@ -63,26 +67,4 @@
   body {
     font-size: 21px;
   }
-}
-
-.entry-footer,
-.footer,
-.post-meta {
-  font-size: .8em;
-}
-
-#menu a,
-.pagination a {
-  font-size: .9em;
-}
-
-.logo a {
-  font-size: 1.6em;
-}
-
-.archive-meta,
-.entry-content,
-.page-content,
-.page-footnote {
-  font-size: .9em;
 }
