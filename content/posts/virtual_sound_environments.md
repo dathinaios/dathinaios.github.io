@@ -1,7 +1,7 @@
 ---
 author: "Dionysis Athinaios"
 title: "Virtual Sound Environments: Concepts and Methods"
-date: 2014-09-05
+date: 2014-05-09
 tags: ["virtual sound environments", "audio", "research"]
 categories: ["Articles", "Music", "Sound", "Code"]
 ShowToc: true
