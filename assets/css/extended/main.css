@@ -76,6 +76,10 @@
   }
 }
 
+main {
+  --main-width: 900px
+}
+
 /*   /1* Add a box around *1/ */
 /* h2, h3, h4, h5 { */
 /*   background-color: gray; */
