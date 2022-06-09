@@ -39,7 +39,7 @@ Check it out on [GitHub](https://github.com/dathinaios/Cactus).
 
 ### GameLoop
 
-A sound-only game angine for the creation of virtual sound environments inspired by video game techniques. It provides:
+A audio-only game engine for the creation of virtual sound environments inspired by video game techniques. It provides:
 
 * An agent based system for the creation of interactive sound units.
 * Spatialisation according to cartesian or polar coordinates using Ambisonics.
