@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>virtual sound environments on Dionysis Athinaios</title>
+    <link>https://dathinaios.github.io/tags/virtual-sound-environments/</link>
+    <description>Recent content in virtual sound environments on Dionysis Athinaios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://dathinaios.github.io/tags/virtual-sound-environments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Sound Environments: Concepts and Methods</title>
+      <link>https://dathinaios.github.io/posts/virtual_sound_environments/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dathinaios.github.io/posts/virtual_sound_environments/</guid>
+      <description>Introduction This article presents concepts that are useful for the creation of virtual sound environments. Although in most cases it uses examples from the real world, the concepts should not be viewed as an attempt to categorise, analyse or model real soundscapes. Throughout, the focus is on the creation of perceptually clear and dynamic virtual sound environments that allude to the experience of sound spaces and events, much in the same way that this is done in video games.</description>
+    </item>
+    
+  </channel>
+</rss>
