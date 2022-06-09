@@ -56,8 +56,8 @@ params:
       buttons:
         - name: Projects
           url: "/projects"
-        # - name: Articles
-        #   url: "/posts"
+        - name: Posts
+          url: "/posts"
 
   homeInfoParams:
     Title: "\\> welcome"
@@ -86,10 +86,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    # - identifier: posts
-    #   name: Posts
-    #   url: /posts/
-    #   weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
     - identifier: github
       name: "GitHub"
       url: https://github.com/dathinaios

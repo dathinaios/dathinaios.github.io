@@ -6,7 +6,6 @@ tags: ["virtual sound environments", "audio", "research"]
 categories: ["articles"]
 ShowToc: true
 TocOpen: false
-Draft: true
 ---
 
 ## Introduction
@@ -14,7 +13,7 @@ Draft: true
 This article presents concepts that are useful for the creation of virtual
 sound environments. Although in most cases it uses examples from the
 real world, the concepts should not be viewed as an attempt to
-categorise, analyse or recreate real soundscapes. Throughout, the focus
+categorise, analyse or model real soundscapes. Throughout, the focus
 is on the creation of perceptually clear and dynamic virtual sound
 environments that allude to the experience of sound spaces and events,
 much in the same way that this is done in video games.
