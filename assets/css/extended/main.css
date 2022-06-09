@@ -1,0 +1,82 @@
+
+.post-content p {
+  text-align: justify;
+}
+
+@media not speech {
+  body {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 28em) {
+  .post-content p {
+    hyphens: auto;
+    hyphenate-limit-chars: 6 3 3;
+    hyphenate-limit-lines: 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-zone: 18%;
+  }
+  .post-content p {
+    padding: 15px;
+  }
+}
+
+@media screen and (max-width: 56em) {
+  body {
+    padding: 10px;
+  }
+}
+
+@media screen and (min-width: 28em) {
+  body {
+    font-size: 17px;
+  }
+
+}
+
+@media screen and (min-width: 36em) {
+  body {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  body {
+    font-size: 19px;
+  }
+}
+
+@media screen and (min-width: 56em) {
+  body {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  body {
+    font-size: 21px;
+  }
+}
+
+.entry-footer,
+.footer,
+.post-meta {
+  font-size: .8em;
+}
+
+#menu a,
+.pagination a {
+  font-size: .9em;
+}
+
+.logo a {
+  font-size: 1.6em;
+}
+
+.archive-meta,
+.entry-content,
+.page-content,
+.page-footnote {
+  font-size: .9em;
+}
