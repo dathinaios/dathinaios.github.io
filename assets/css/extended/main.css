@@ -11,12 +11,19 @@
 }
 
 .post-content h4 {
-  font-size: 19px;
+  font-size: 20px;
+  margin-top: 35px;
+}
+
+.post-content h4:before {
+  content: ">>";
+  margin-right: 10px;
 }
 
 @media not speech {
   body {
     font-size: 16px;
+    margin: 24px 0 16px;
   }
 }
 
@@ -68,3 +75,13 @@
     font-size: 21px;
   }
 }
+
+/*   /1* Add a box around *1/ */
+/* h2, h3, h4, h5 { */
+/*   background-color: gray; */
+/*   font-weight: bold; */
+/*   border-radius: 5px; */
+/*   width: auto; */
+/*   height: auto; */
+/*   padding: 10px 10px 10px 14px; */
+/* } */
