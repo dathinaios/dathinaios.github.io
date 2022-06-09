@@ -1,9 +1,12 @@
 <section class="article discussion">
   <script>
   function loadComment() {
-    let theme = localStorage.getItem("pref-theme") == 'dark' ? 'github-dark' : 'github-light';
-    console.log(localStorage.getItem("pref-theme"));
-    console.log(theme);
+    let theme =
+      localStorage.getItem("pref-theme") == 'dark' ||
+      localStorage.getItem("pref-theme") === null
+        ? 'github-dark' : 'github-light';
+    // console.log(localStorage.getItem("pref-theme"));
+    // console.log(theme);
     let s = document.createElement('script');
     s.src = 'https://utteranc.es/client.js';
     s.setAttribute('repo', 'dathinaios/dathinaios.github.io');

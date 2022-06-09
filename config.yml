@@ -18,7 +18,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Dionysis Athinaios
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # light
   disableThemeToggle: false
 
   ShowReadingTime: false
