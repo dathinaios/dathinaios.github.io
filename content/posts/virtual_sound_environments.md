@@ -1,8 +1,7 @@
 ---
 author: "Dionysis Athinaios"
-bibliography: virtual_sound_environments_paper.bib
-title: "Virtual Sound Environments: Theory and Method"
-date: "2022-8-6"
+title: "Virtual Sound Environments: Concepts and Methods"
+date: 2014-09-05
 tags: ["virtual sound environments", "audio", "research"]
 categories: ["articles"]
 ShowToc: true
@@ -12,7 +11,7 @@ Draft: true
 
 ## Introduction
 
-This paper presents concepts that are useful for the creation of virtual
+This article presents concepts that are useful for the creation of virtual
 sound environments. Although in most cases it uses examples from the
 real world, the concepts should not be viewed as an attempt to
 categorise, analyse or recreate real soundscapes. Throughout, the focus
@@ -31,15 +30,15 @@ depending on the intended outcome will be presented, leaving the
 decisions regarding content and its related meaning to the judgement of
 the artist or the analytical approach of the researcher accordingly.
 
-The *unit* is defined as the basic element for the construction of a
+The **unit** is defined as the basic element for the construction of a
 virtual sound environment and its several types, followed by
 considerations of some complimentary elements and a discussion
-concerning interaction. The second part of the paper will touch on the
+concerning interaction. The second part of the article will touch on the
 basics of unit creation, as well as their behaviour and interaction,
 presenting a number of techniques that are essential for every
 implementation.
 
-## The Main Building Blocks {#themainbuildingblocks}
+## The Main Building Blocks
 
 ### Units
 
@@ -71,15 +70,15 @@ interaction within the crowd. It may be that it is more relevant to
 create units 'humans' of which the crowd unit will be an emergent
 characteristic just as in the real world. That would enable us to define
 the sounds of cutlery, pouring liquid and clothes, as units that emerge
-from interaction (later referred to as *Effects*).
+from interaction.
 
-#### Unit Types {#unittypes}
+#### Unit Types
 
 Three type-pairs of opposing attributes are defined that will help to
 make some broad distinctions between units:
 
-1.  At the most basic level, a distinction between *active* and
-    *passive* units can be made. An active unit produces sound as a
+1.  At the most basic level, a distinction between **active** and
+    **passive** units can be made. An active unit produces sound as a
     result of an internal function, while a passive unit remains silent
     until it is excited by an active one. For example, a tree can be
     seen as a passive unit that may be excited by an interaction with an
@@ -87,7 +86,7 @@ make some broad distinctions between units:
     be, potentially, excited by the action of a human (active unit)
     opening the door.
 
-2.  A unit may be *static* or *mobile* according to its potential for
+2.  A unit may be **static** or **mobile** according to its potential for
     motion[^1]. Although at first it may seem that the active and
     passive types would also describe whether something is static or
     mobile, this is not necessarily the case. A passive unit may be set
@@ -96,17 +95,17 @@ make some broad distinctions between units:
     be imagined, that does not include motion in its behaviour.
 
 3.  Although many sound events are clearly part of a unit and can thus
-    be described as *simple*, there are cases in which a *complex* unit
+    be described as **simple**, there are cases in which a **complex** unit
     is comprised from what appear to be separate sounds. The sound of a
     walking human for example, is clearly a different sound from the
     voice of the person. Nevertheless, it makes more sense to consider
     them as belonging to the same underlying unit connected by the
     knowledge of what comprises a human[^2].
 
-#### Objects and Agents {#objectsandagents}
+#### Objects and Agents
 
-Another useful distinction concerning units is that between *objects*
-and *agents*. An agent to use Mat Buckland's definition is 'a system
+Another useful distinction concerning units is that between **objects**
+and **agents**. An agent to use Mat Buckland's definition is 'a system
 situated within and as part of an environment that senses that
 environment and acts on it, over time, in pursuit of its own agenda and
 so as to effect what it senses in the future'
@@ -121,19 +120,19 @@ organism or at least something controlled by an organism[^3].
 Consequently certain distinct features of such a unit can be identified
 that might help in the attempt for its construction:
 
-1.  A large part of an organism's sound can be referred to as *function
-    sounds*. The term describes any sound that is not intentional, or is
+1.  A large part of an organism's sound can be referred to as **function
+    sounds**. The term describes any sound that is not intentional, or is
     the result of an intention that does not primarily attempt to
-    produce the sound. These can be further distinguished to *integral*
+    produce the sound. These can be further distinguished to **integral**
     sounds, which are part of the units ongoing function (breathing,
-    heartbeat etc.), *motion* sounds that are the result of the units
-    motion in space, and *state dependant* events that depend on the
+    heartbeat etc.), **motion** sounds that are the result of the units
+    motion in space, and **state dependant** events that depend on the
     changing state of the unit (a 'sick' stage may add the sounds
     'sneeze' and 'cough' in the function sounds). Motion sounds can be
-    further categorised into *gait* (produced by legged animals),
-    *crawl*, *fly*, *swim* and *mechanical*.
+    further categorised into **gait** (produced by legged animals),
+    **crawl**, **fly**, **swim** and **mechanical**.
 
-2.  The second category is that of *conscious sounds*, and describes any
+2.  The second category is that of **conscious sounds**, and describes any
     sound that is produced as the direct outcome of an intention. The
     function of a conscious sound is mostly for the purposes of
     communication. Indeed, it is hard to think of other uses apart from
@@ -144,7 +143,7 @@ that might help in the attempt for its construction:
 
 When two objects collide or otherwise interact, the sound result of
 their interaction is in most cases better described as a separate single
-unit. This *effect*[^4] unit is particularly useful, because it also
+unit. This **effect**[^4] unit is particularly useful, because it also
 allows as to separate the reactions of the environment from the units.
 In this way, the interaction of two units may produce a third unit
 'fire' instead of considering fire as something happening to a unit. The
@@ -153,7 +152,7 @@ them a relevant change of state[^5].
 
 ### Atmospheres
 
-An *atmosphere*[^6] refers to a background sound that acts as the
+An **atmosphere**[^6] refers to a background sound that acts as the
 backdrop for the actual units. The distinction of an atmosphere from a
 unit is an ambiguous one. For example in a forest environment the
 atmosphere may be a collective recording of insects, birds and other
@@ -190,7 +189,7 @@ clarify that it is not interacting with the environment after it is set
 in motion. It is merely an ornamental, to a certain point, pre-composed
 sound, no matter how flexible its internal form may be.
 
-### Interaction {#interaction1}
+### Interaction
 
 Having described the main building blocks of a sound environment, what
 remains is to consider the ways these blocks interact with each other.
@@ -201,21 +200,21 @@ choice made according to the desired perceptual result.
 
 Two types of interaction have been identified:
 
-1.  *Causal interaction* describes the physical interaction of units in
+1.  **Causal interaction** describes the physical interaction of units in
     space. It is described as the forces (and their results) created
     when two units are found to occupy the same space at the same time,
     and in accordance with the object's mass, velocity and any other
     relevant attribute.
 
-2.  *Perceptual interaction* is interaction of the world with the
+2.  **Perceptual interaction** is interaction of the world with the
     'senses' of a unit. This interaction includes the observation of its
     environment that may result to a consequent change of behaviour, as
     well as the related possibility of communication between units.
 
-## Theories and Techniques Relevant to the Implementation of the Structure {#theories and techniques}
+## Theories and Techniques Relevant to the Implementation of the Structure
 
 Although there is not a single way to realise the concepts described in
-the first part of the paper, there exist a useful collection of
+the first part of the article, there exist a useful collection of
 approaches that arise from past attempts. This is particularly true
 concerning the problems that have a direct counterpart in the virtual
 worlds of computer games and for which there exists an enormous amount
@@ -229,7 +228,7 @@ of the methods can be found in the GameLoop library for the
 SuperCollider programming language, created by the author
 [^r5].
 
-### The Modelling of Space {#themodellingofspace}
+### The Modelling of Space
 
 The first issue is to choose a technique that would allow for the
 accurate rendering of space. This is really the most basic requirement
@@ -258,7 +257,7 @@ images interact with each other. A theory that explains these
 ambiguities has not been formulated and consequently their resolution
 depends on the judgement of the composer.
 
-### Unit Construction {#unitconstruction}
+### Unit Construction
 
 Although the construction of a unit naturally depends on the particular
 case, there are some characteristics that are common to all units. Apart
@@ -278,7 +277,7 @@ typically involve a method for the unit's response in case of collision.
 
 Apart from these general cases, unit construction has infinite
 possibilities and is closely related to sound design. Since in the
-present paper the discussion concerns dynamic sound environments, a
+present article the discussion concerns dynamic sound environments, a
 unit's sound design is better conceived in terms of procedural audio.
 Andy Farnell defines procedural audio as:
 
@@ -299,16 +298,16 @@ from the static nature of sound recordings and resolve spatial conflicts
 
 To return briefly to the discussion of types of units, regardless of the
 technique used a continuum can be identified. On one end are found
-*abstract units* that do not have any real-world associations.
+**abstract units** that do not have any real-world associations.
 Progressing on the continuum, associations become more apparent but are
-not in harmony with real world experience. These are *surreal units*,
+not in harmony with real world experience. These are **surreal units**,
 characteristic of the worlds of acousmatic composition. Finally at the
 end of the continuum are found the attempts at the modelling of real
-world sounds that can be referred to as *natural units*. The last
+world sounds that can be referred to as **natural units**. The last
 category is of particular relevance to video games, but it can instruct
 the construction of any type of unit.
 
-### Steering Behaviours and Finite State Machines {#steeringbehavioursandfinitestatemachines}
+### Steering Behaviours and Finite State Machines
 
 Once an active and mobile unit is constructed, the next step is to imbue
 in it an illusion of purposeful behaviour. Although more 'traditional'
@@ -330,18 +329,18 @@ elaborates on this concept in the paper 'Steering behaviors for
 autonomous characters'[^r8] where he
 presents a comprehensive collection of behaviours ranging from casual
 motion around a space to complex group formations. In his own words, the
-'paper presents solutions for one requirement of autonomous characters
+*'paper presents solutions for one requirement of autonomous characters
 in animation and games: the ability to navigate around their world in a
-life-like and improvisational manner'.
+life-like and improvisational manner'*.
 
 After a number of motion types have been convincingly implemented, a
 mechanism for the combination of behaviours by one unit should be
 created as well as the ability to choose the relevant behaviour
 according to circumstances. The latter is usually implemented using
-*finite state machines* that allow a unit to alternate between a number
+**finite state machines** that allow a unit to alternate between a number
 of states and thus modify its behaviour.
 
-### Interaction {#interaction2}
+### Interaction
 
 The authors first attempts at the implementation of an interactive world
 consisted of creating individual units with mechanisms for exchanging
@@ -363,7 +362,7 @@ the number of checks between objects, that in turn enables an increase
 in the number of elements that can simultaneously exist and interact at
 any given time.
 
-## Units in Time {#unitsintime}
+## Units in Time
 
 A central problem in creating a virtual sound environment is how to
 determine when a sound should occur. Approaching the problem as an
@@ -389,11 +388,11 @@ the sound causes remain unknown[^9]. Finally units can be arranged in
 defined or partly-defined sequences, as described in the section on
 cutscenes.
 
-## Conclusion {#frame_conclusion}
+## Conclusion
 
 Although the construction of virtual sound environments is still
 dominated by a visual focus, it is possible that such 'worlds' can be
-implemented in a perceptually convincing way. This paper presented a few
+implemented in a perceptually convincing way. This article presented a few
 concepts to assist in the design of such environments by identifying
 their main building blocks. In addition, it indicated relations to
 problems known from video game design and their respective solutions.
@@ -423,7 +422,7 @@ environments as compelling as their visual counterparts.
     the book *Introduction to Game Development*
     [^r4].
 
-[^5]: The concept of states with be discussed later on in the paper.
+[^5]: The concept of states with be discussed later on in the article.
 
 [^6]: The concept was inspired by the use of the term by Chris Watson in
     his talk at the University of Ulster (Art College), Belfast, on the

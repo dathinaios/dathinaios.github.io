@@ -28,12 +28,8 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
   disableSpecial1stPost: false
-  disableScrollToTop: false
   comments: false
-  hidemeta: false
-  hideSummary: false
   showtoc: false
   tocopen: false
 
