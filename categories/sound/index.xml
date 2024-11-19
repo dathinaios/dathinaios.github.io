@@ -4,17 +4,23 @@
     <title>Sound on Dionysis Athinaios</title>
     <link>https://dathinaios.github.io/categories/sound/</link>
     <description>Recent content in Sound on Dionysis Athinaios</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.0</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 09 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://dathinaios.github.io/categories/sound/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dathinaios.github.io/categories/sound/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtual Sound Environments: Concepts and Methods</title>
       <link>https://dathinaios.github.io/posts/virtual_sound_environments/</link>
       <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://dathinaios.github.io/posts/virtual_sound_environments/</guid>
-      <description>Introduction This article presents concepts that are useful for the creation of virtual sound environments. Although in most cases it uses examples from the real world, the concepts should not be viewed as an attempt to categorise, analyse or model real soundscapes. Throughout, the focus is on the creation of perceptually clear and dynamic virtual sound environments that allude to the experience of sound spaces and events, much in the same way that this is done in video games.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This article presents concepts that are useful for the creation of virtual
+sound environments. Although in most cases it uses examples from the
+real world, the concepts should not be viewed as an attempt to
+categorise, analyse or model real soundscapes. Throughout, the focus
+is on the creation of perceptually clear and dynamic virtual sound
+environments that allude to the experience of sound spaces and events,
+much in the same way that this is done in video games.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
