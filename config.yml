@@ -29,7 +29,7 @@ params:
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   disableSpecial1stPost: false
-  comments: true
+  comments: false
   showtoc: false
   tocopen: false
 
