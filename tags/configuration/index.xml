@@ -14,7 +14,7 @@
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://dathinaios.github.io/posts/mac_open_all_files_in_term_vim/</guid>
       <description>&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
-&lt;p&gt;On a Mac, double clicking or otherwise opening a file (for instance through Alfred) often opens it Xcode, TextEdit or other non-Vim based editor 😔. What if we use terminal Vim (ok, or any other editor, this should be useful anyway)? Two problems to solve:&lt;/p&gt;
+&lt;p&gt;On a Mac, double clicking or otherwise opening a file (for instance through Alfred) often opens it in Xcode, TextEdit or other non-Vim based editor 😔. What if we use terminal Vim (ok, or any other editor, this should be useful anyway)? Two problems to solve:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Open a file in terminal Vim&lt;/li&gt;
 &lt;li&gt;Associate all relevant files with a certain app easily&lt;/li&gt;
