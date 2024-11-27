@@ -4,10 +4,38 @@
     <title>Tags on Dionysis Athinaios</title>
     <link>https://dathinaios.github.io/tags/</link>
     <description>Recent content in Tags on Dionysis Athinaios</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <generator>Hugo -- 0.139.2</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 09 May 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dathinaios.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration</title>
+      <link>https://dathinaios.github.io/tags/configuration/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://dathinaios.github.io/tags/configuration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mac</title>
+      <link>https://dathinaios.github.io/tags/mac/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://dathinaios.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neovim</title>
+      <link>https://dathinaios.github.io/tags/neovim/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://dathinaios.github.io/tags/neovim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>https://dathinaios.github.io/tags/vim/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://dathinaios.github.io/tags/vim/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Audio</title>
       <link>https://dathinaios.github.io/tags/audio/</link>

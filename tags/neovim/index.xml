@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Code on Dionysis Athinaios</title>
-    <link>https://dathinaios.github.io/categories/code/</link>
-    <description>Recent content in Code on Dionysis Athinaios</description>
+    <title>Neovim on Dionysis Athinaios</title>
+    <link>https://dathinaios.github.io/tags/neovim/</link>
+    <description>Recent content in Neovim on Dionysis Athinaios</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dathinaios.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dathinaios.github.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open any File in Terminal Vim by Default</title>
       <link>https://dathinaios.github.io/posts/mac_open_all_files_in_term_vim/</link>
@@ -22,20 +22,6 @@
 &lt;h2 id=&#34;the-solution&#34;&gt;The Solution&lt;/h2&gt;
 &lt;h3 id=&#34;1-open-a-file-in-terminal-vim&#34;&gt;1. Open a File in Terminal (Vim)&lt;/h3&gt;
 &lt;p&gt;We can achieve this using an &lt;code&gt;Automator&lt;/code&gt; workflow bundled as an app.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Virtual Sound Environments: Concepts and Methods</title>
-      <link>https://dathinaios.github.io/posts/virtual_sound_environments/</link>
-      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://dathinaios.github.io/posts/virtual_sound_environments/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This article presents concepts that are useful for the creation of virtual
-sound environments. Although in most cases it uses examples from the
-real world, the concepts should not be viewed as an attempt to
-categorise, analyse or model real soundscapes. Throughout, the focus
-is on the creation of perceptually clear and dynamic virtual sound
-environments that allude to the experience of sound spaces and events,
-much in the same way that this is done in video games.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
