@@ -11,7 +11,7 @@ TocOpen: false
 
 ## The Problem
 
-On a Mac, double clicking or otherwise opening a file (for instance through Alfred) often opens it Xcode, TextEdit or other non-Vim based editor 😔. What if we use terminal Vim (ok, or any other editor, this should be useful anyway)? Two problems to solve:
+On a Mac, double clicking or otherwise opening a file (for instance through Alfred) often opens it in Xcode, TextEdit or other non-Vim based editor 😔. What if we use terminal Vim (ok, or any other editor, this should be useful anyway)? Two problems to solve:
 
 1. Open a file in terminal Vim
 2. Associate all relevant files with a certain app easily
@@ -148,6 +148,6 @@ echo "Associations updated for all listed extensions with $APP_BUNDLE_ID."
 
 ----
 
-The file extensions are just the one I use. This script assumes the automator app Vim (with ID `com.apple.automator.Vim`) we created above. If you have a different app name or this is not working to confirm id run: `osascript -e 'id of app "Vim"'` changin `Vim` for the name of your app. If you are having trouble try to launch the application again or even manually "Open With.." for stubborn files. You can also try to use the commented line above to reset all associations (at your own risk!).
+The file extensions are just the one I use. This script assumes the Automator app Vim (with ID `com.apple.automator.Vim`) we created above. If you have a different app name, or this is not working, run this to find the ID: `osascript -e 'id of app "Vim"'` changing `Vim` for the name of your app. If you are having trouble try to launch the application again or even manually "Open With.." for stubborn files. You can also try to use the commented line above to reset all associations (at your own risk!).
 
 That's it. You should now be able to double click or launch any of the files with the above extensions in terminal Vim. Here is to never having a file opening in Xcode or TextEdit again! 🍻
