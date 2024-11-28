@@ -148,6 +148,6 @@ echo "Associations updated for all listed extensions with $APP_BUNDLE_ID."
 
 ----
 
-The file extensions are just the one I use. This script assumes the Automator app Vim (with ID `com.apple.automator.Vim`) we created above. If you have a different app name, or this is not working, run this to find the ID: `osascript -e 'id of app "Vim"'` changing `Vim` for the name of your app. If you are having trouble try to launch the application again or even manually "Open With.." for stubborn files. You can also try to use the commented line above to reset all associations (at your own risk!).
+The file extensions are just the ones I use. This script assumes the Automator app Vim (with ID `com.apple.automator.Vim`) we created above. If you have a different app name, or this is not working, run this to find the ID: `osascript -e 'id of app "Vim"'` changing `Vim` for the name of your app. If you are having trouble try to launch the application again or even manually "Open With.." for stubborn files. You can also try to use the commented line above to reset all associations (at your own risk!).
 
 That's it. You should now be able to double click or launch any of the files with the above extensions in terminal Vim. Here is to never having a file opening in Xcode or TextEdit again! 🍻
